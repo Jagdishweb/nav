@@ -1,0 +1,103 @@
+@media(min-width:1200px){
+
+/* Where are you located ? start*/  
+    .container{max-width: 1170px;}
+/* Where are you located ? end*/   
+    
+/* We are not available in your location yet ! start  */
+/* We are not available in your location yet ! end */
+
+}
+
+
+
+ /* sachin css start  */
+@media(max-width:1199px){
+
+/* Where are you located ? start*/ 
+    .content-text h2 { margin-bottom: 40px; font-size: 40px;}
+    .select-area select {padding: 14px 18px;font-size: 20px;}
+/* Where are you located ? end*/   
+    
+/* We are not available in your location yet ! start  */
+.content-text h3 {font-size: 35px; margin-bottom: 18px;}
+.located-sec label {margin-bottom: 16px;}
+.located-sec input::placeholder {font-size: 20px;}
+.located-sec .form-control {padding: 17px 18px; margin-bottom: 26px;}
+.located-sec .mb-custome h2 { margin-bottom: 25px;}
+.located-sec .check-btn p { margin-bottom: 8px;    line-height: 18px;}
+.located-sec .check-btn {margin-top: 46px;}
+/* We are not available in your location yet ! end */
+   
+}
+
+@media(max-width:991px){
+    .menu-area .container .row{align-items: center;}
+/* Where are you located ? start*/ 
+    .content-text h2 {margin-bottom: 35px; font-size: 35px; }
+    .select-area {padding: 0 40px;}
+    .select-area select {padding: 13px 16px;font-size: 18px;}
+/* Where are you located ? end*/   
+    
+/* We are not available in your location yet ! start  */
+.located-sec .mb-custome h2 { margin-bottom: 20px;}
+.input-area {padding: 0 44px;}
+.located-sec input::placeholder {font-size: 18px;}
+.located-sec .form-control { padding: 15px 14px;margin-bottom: 22px;}
+.located-sec label {margin-bottom: 13px;}
+.located-sec .check-btn p {font-size: 14px;}
+.located-sec .form-btn {padding: 14px 50px;margin: 18px 0 10px 0;}
+.located-sec label {font-size: 16px;}
+    /* We are not available in your location yet ! end */
+
+}
+
+@media(max-width:767px){
+
+/* Where are you located ? start*/ 
+    .content-text h2 {margin-bottom: 30px; font-size: 30px;}
+    .select-area { padding: 0 30px;}
+/* Where are you located ? end*/   
+    
+/* We are not available in your location yet ! start  */
+.input-area {padding: 0 15px;}
+.content-text h3 {font-size: 25px; margin-bottom: 14px;}
+.located-sec .form-control {padding: 12px 12px; margin-bottom: 15px;}
+.located-sec label {margin-bottom: 6px;}
+/* We are not available in your location yet ! end */
+
+}
+
+@media(max-width:575px){
+/* Where are you located ? start */
+    .content-text h2 { margin-bottom: 24px;font-size: 22px; }
+    .select-area { padding: 0 0px;}
+    .select-area select { padding: 11px 8px;font-size: 16px;}
+/* Where are you located ? end*/   
+    
+/* We are not available in your location yet ! start  */
+.input-area {padding: 0 0px;}
+.located-sec .form-control {padding: 10px 10px;margin-bottom:8px;}
+.located-sec .check-btn {margin-top: 0px;}
+.content-text h3 {font-size: 20px; margin-bottom: 10px;}
+.located-sec label { margin-bottom: 2px;}
+.located-sec input::placeholder {font-size: 14px;}
+.located-sec .form-btn {padding: 12px 40px;}
+.located-sec .mb-custome h2 {margin-bottom: 12px;}
+.content-text p { margin-bottom: 25px;}
+/* We are not available in your location yet ! end */
+
+}
+
+@media(max-width:479px){
+    /* Where are you located ? start */
+  
+    /* Where are you located ? end*/   
+        
+    /* We are not available in your location yet ! start  */
+
+    /* We are not available in your location yet ! end */
+    
+    }
+
+ /* sachin css end */
